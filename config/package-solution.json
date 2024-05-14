@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "usa-citizenship-form-client-side-solution",
+    "id": "c87394d9-2eb5-4d93-aade-e671f20c6216",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "usa-citizenship-form description"
+      },
+      "longDescription": {
+        "default": "usa-citizenship-form description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "usa-citizenship-form Feature",
+        "description": "The feature that activates elements of the usa-citizenship-form solution.",
+        "id": "0bf9ee72-cc61-47fd-9f03-9544cf2d5f4c",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/usa-citizenship-form.sppkg"
+  }
+}
